@@ -8,8 +8,10 @@ Een Roadmap (letterlijk een wegenkaart) zet een aantal activiteiten in een bepaa
 
 De functionele roadmap bestaat uit een beschrijving van welke **functies** wanneer beschikbaar komen. Deze functies worden gebundel in een **functionele release**. Deze releases hebben een letter *A*, *B*, enz. In een release is dus een set aan functies gebundeld en vrijgegeven voor productie.
 
-Afbeelding functionele roadmap
-
+<figure id="FunctioneleRoadmap">
+    <img src="media/FunctioneleRoadmap.png" alt="Functionele Roadmap">
+    <figcaption>Functionele Roadmap</figcaption>
+</figure>
 
 #### Product Roadmap
 
@@ -69,16 +71,3 @@ In de cadans worden steeds stukjes fucntionaliteit gerealiseerd in de prodcuten.
 ### Release 
 
 Eigenlijk "Release on Demand". Hierbij bepaalt de business (lees de product- en releasemanagers) wanneer het moment daar is dat bepaalde functionaliteit (en dus eigenlijk welke versie van een product) in gebruik wordt genomen. 
-
-
-
-<aside class='note'>
-    NB: gebruik de in config.js gedefinieerde localBiblio!
-</aside> 
-
-| Verwijzing | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n | 
-|------------|---------|---------|---------|---------| 
-| [[PUB-1]]  |         |         |         |         |
-| [[PUB-2]]  |         |         |         |         |
-| [[PUB-3]]  |         |         |         |         |
-| [[PUB-4]]  |         |         |         |         |
